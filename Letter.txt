@@ -2,7 +2,9 @@ This is a sample (example)
 letter with
 some extra
 
-
+Local edit
 And some additional text
 Added on line (7) deleted one line (4)
-Added line 8 from Web UI on github.com
+Added line 8 from Web UI on github.com -- local edit 
+Added Locally 
+
