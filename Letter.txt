@@ -1,7 +1,7 @@
 This is a sample (example)
 letter with
 some extra
-line breaks
+
 
 And some additional text
-
+Added on line (7) deleted one line (4)
