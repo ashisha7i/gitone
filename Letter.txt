@@ -2,7 +2,6 @@ This is a sample (example)
 letter with
 some extra
 line breaks
-.
-revision
+
 And some additional text
 
