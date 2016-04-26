@@ -5,3 +5,4 @@ some extra
 
 And some additional text
 Added on line (7) deleted one line (4)
+Added line 8 from Web UI on github.com
