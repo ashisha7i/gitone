@@ -1,7 +1,8 @@
 repo_name: ashisha7i/gitone
 report_id: 5b1af7dc39b9e88ec2ad1eea231bfa00
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T00:58:54+00:00'
+timestamp: '2024-01-05T09:03:56+00:00'
 requested_by: ashisha7i
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ashisha7i/gitone
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,4 +26,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashisha7i/gitone
   detection_source: Repo Metadata
